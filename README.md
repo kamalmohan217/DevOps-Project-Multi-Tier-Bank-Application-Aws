@@ -24,6 +24,9 @@ You can register a new user and login using the new user.
 For this newly created user the entry in the database is as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/7cc96f90-3d36-45d0-9fe0-17ccb86c6906)
 
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
 <br><br/>
 <br><br/>
 <br><br/>
