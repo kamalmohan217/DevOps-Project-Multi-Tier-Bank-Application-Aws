@@ -1,5 +1,5 @@
 # DevOps-Project-Multi-Tier-Bank-Application-Aws
-![image](https://github.com/user-attachments/assets/269cad18-05bc-4d41-a5fa-e30704b62ab6)
+![image](https://github.com/user-attachments/assets/a97aa2b4-79d4-4024-aceb-d25257743775)
 
 
 
